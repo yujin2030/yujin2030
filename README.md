@@ -1,5 +1,5 @@
 <div align="center">   
-        <h1>Minsub's github</h1>
+        <h1>Yujin's github</h1>
         <h3>Hi there 👋</h3>
 </div>
 
